@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Do_zaliczenia</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="startButton">Start</string>
+    <string name="mode_button_text">Tryb: Gra w parze</string>
+</resources>
